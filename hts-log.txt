@@ -1,0 +1,56 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 14 Aug 2022 10:09:20 at main/hollander +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" main/hollander -O1 "C:\My Web Sites\fds" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/decodeURIComponent(e (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/sitemap.xml (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/feed.xml (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/ (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/version/ (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/da6c52cb.min.css (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/b604fd33.min.css (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/9455f099.min.css (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/b3e8ff7e.min.css (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/0078bb82.min.css (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/b69a6dca.min.css (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/ac09f7ef.chunk.min.js (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/rb_wixui.thunderbolt~bootstrap-classic.66e5a74a.chunk.min.js (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/rb_wixui.thunderbolt~bootstrap-responsive.69c32e6d.chunk.min.js (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/rb_wixui.thunderbolt~bootstrap.30ba8a50.chunk.min.css (from https://main/hollander)
+
+10:09:35	Error: 	"Not Found" (404) at link https://main/rb_wixui.thunderbolt~bootstrap.ac09f7ef.chunk.min.js (from https://main/hollander)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 39 links scanned, 21 files written (1349080 bytes overall) [492362 bytes received at 32824 bytes/sec], 1338486 bytes transferred using HTTP compression in 30 files, ratio 29%, 1.6 requests per connection
+
+(17 errors, 0 warnings, 0 messages)
+
